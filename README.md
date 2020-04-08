@@ -1,5 +1,9 @@
 # ZDay
-This application is a game that replicates Call of Duty: Zombies, but in a top-down fashion. 
+To start: download and install the executable file. When brought to the menu, press enter and enjoy playing.
+
+Version: The current version that the .exe launches is a fully working model, but with some things not put away for testing purposes. For example, the black line representing the player's melee range is visible. Along with the zombie helth shown in the middle of the screen. This is for testing and was not taken out due to school starting up.
+
+About: This application is a game that replicates Call of Duty: Zombies, but in a top-down fashion. 
 The vast majority of the sprites are custom and all of the programming is done in GML, 
 using GM Studio.
 
